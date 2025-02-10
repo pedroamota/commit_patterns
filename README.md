@@ -93,7 +93,4 @@ Refs: #45, #78"
 4. **Gere Changelogs Automaticamente**:  
    Use [standard-version](https://github.com/conventional-changelog/standard-version) para gerar logs baseados nos commits.
 
----
 
-*📄 Licença: [MIT](https://choosealicense.com/licenses/mit/)*  
-*🔗 Adapte conforme as necessidades do seu projeto!*
